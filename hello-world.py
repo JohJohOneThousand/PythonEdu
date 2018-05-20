@@ -1,4 +1,4 @@
 # comments go here
 x = 3
-y = 98
+y = 6
 print(x * y)
