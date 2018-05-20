@@ -1,4 +1,4 @@
 # comments go here
-x = 3
-y = 6
+x = 345
+y = 87
 print(x * y)
