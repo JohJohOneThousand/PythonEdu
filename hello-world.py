@@ -5,8 +5,11 @@ Spyder Editor
 This is a temporary script file.
 """
 s = "MIT 6.0001 Introduction"
-        print(s)
+# print(s)
 l=list(s)
-print(l)
-nowthing = (int(1),int(2),int(3),)
-print(nowthing)
+# print(l)
+nowtuple = (1,2,3,4,)
+# print(nowtuple)
+nowlist = {1:'one', 2:'two', 3:'three', 'giraffe': 3}
+# print(nowlist)
+print(nowlist.keys())
