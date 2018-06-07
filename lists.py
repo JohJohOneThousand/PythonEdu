@@ -12,9 +12,7 @@ afl_club_names = ['Adelaide Football Club', 'Brisbane Lions', 'Carlton Football 
 # print(afl_team_names[8:])
 # print(afl_club_names)
 
-# print(afl_club_names.extend(afl_team_names))
+afl_club_names.extend(afl_team_names)
 
-# afl_club_names.extend(afl_team_names)
-# print(str(afl_club_names.extend(afl_team_names)))
-afl_club_names.reverse()
+
 print(afl_club_names)
