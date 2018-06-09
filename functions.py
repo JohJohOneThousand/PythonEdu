@@ -1,10 +1,3 @@
-# functions
-
-def f(x):
-    x = x+1
-    print('in f(x): x =', x)
-    # return x
-
-# x = 3
-z = f(x)
-# print(z)
+# abs
+a_number = 345345.345345345345
+print(abs(a_number))

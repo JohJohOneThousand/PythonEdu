@@ -12,8 +12,10 @@ afl_club_names = ['Adelaide Football Club', 'Brisbane Lions', 'Carlton Football 
 # This is Slicing
 # print(afl_team_names[8:])
 # print(afl_club_names)
+adder = ('Joh Team',)
+print(isinstance(adder, tuple))
+# afl_club_names.extend(adder)
+# afl_team_names.reverse()
 
-afl_club_names.extend(afl_team_names)
 
-
-print(afl_club_names)
+# print(afl_club_names)
